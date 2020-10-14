@@ -1,6 +1,7 @@
 # Water Flow and Volume Meter
 
 This project consists in a device which measures both water flow and volume rate utilizing the STM32F407VG microcontroller in the Espruino environment, programmed in javascript. It displays updated values for instant flow rate and the total volume in a 16x2 LCD monitor and also in a local web page, which can be acessed by a protected wi-fi network. It was made as a undergraduate project for Microcontrollers. The working earlier version of the meter can be seen on the link:
+
 https://vimeo.com/468154231
 
 Parts utilized:
